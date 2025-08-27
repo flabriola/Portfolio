@@ -2,14 +2,12 @@
 
 This repository showcases projects I have worked on that don't have public repositories. Projects include university coursework, personal projects, and freelance work spanning various technologies and disciplines.
 
---
 
 ## 🚀 Featured Projects
 
 ### Found DXB
 *[Project description coming soon]*
 
---
 
 ## 📚 Academic Projects (/Academic)
 
@@ -36,9 +34,10 @@ Coursework focused on writing comprehensive documentation for a software-based s
 
 **Tech Stack:** HTML, CSS, JavaScript, MySQL, Figma.
 
---
+---
 
-### Others
+## 📚 Others
+*Other smaller projects in the `/Academic` directory.*
 
 #### Reflections on a Safety Critical System Incident | Introduction to Software Engineering - Y2
 Presentation exploring the failures and lessons learned on the software engineering aspects of the NATS Major Incident.
@@ -51,7 +50,5 @@ F28HS Coursework. Image processing in C.
 
 #### Exploring the use and effects of Big Data in Businesses | Praxis - Y1
 Research Paper as part of Praxis course.
-
---
 
 *More projects coming soon...*
