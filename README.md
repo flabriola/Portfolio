@@ -48,5 +48,3 @@ F28HS Coursework. Image processing in C.
 
 #### Exploring the use and effects of Big Data in Businesses | Praxis - Y1
 Research Paper as part of Praxis course.
-
-*More projects coming soon...*
