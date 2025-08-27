@@ -9,7 +9,7 @@ This repository showcases projects I have worked on that don't have public repos
 *[Project description coming soon]*
 
 
-## ✨ Academic Projects (/Academic)
+## ✨ Academic Projects
 
 A collection of university coursework including codebases, research papers, presentations, and reports from developed applications. 
 *You can explore all related documents, reports, and source code for these projects in the `/Academic` directory.*
