@@ -2,13 +2,6 @@
 
 This repository showcases projects I have worked on that don't have public repositories. Projects include university coursework, personal projects, and freelance work spanning various technologies and disciplines.
 
-
-## ✨ Projects
-
-### Found DXB | Freelance
-*[Project description coming soon]*
-
-
 ## ✨ Academic Projects
 
 A collection of university coursework including codebases, research papers, presentations, and reports from developed applications. 
